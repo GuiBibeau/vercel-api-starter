@@ -1,3 +1,6 @@
+This is really really old! some types are deprecated
+
+
 # vercel-api-starter
 A quick vercel api starter!
 
